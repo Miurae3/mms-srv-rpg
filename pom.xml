@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.miura</groupId>
 	<artifactId>mms-srv-rpg</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>mms-srv-rpg</name>
 	<description>Componente backend do rpg mms</description>
 	<url/>
